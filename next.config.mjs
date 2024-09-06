@@ -5,6 +5,9 @@ const nextConfig = {
       {
         hostname: "expert-rabbit-444.convex.cloud",
       },
+      {
+        hostname: "useful-goose-939.convex.cloud",
+      },
     ],
   },
 };
